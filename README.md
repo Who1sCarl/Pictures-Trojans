@@ -37,6 +37,7 @@ chmod + x pic.py
 `python pic.py -i [image_path] -p [password]`
 
 connect the current catalog info.php with your password.
+![](https://github.com/Who1sCarl/Pictures-Trojans/blob/master/demo.gif)
 
 
 ### bypassav
