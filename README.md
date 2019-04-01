@@ -2,7 +2,7 @@
 
 ## About this script
 
-This script is a python tool designed to generate pictures trojans.It helps penetration testers custom-made their trojans quickly. In some cases like include in php|parsing vulnerability|.htaccess in web app or server.Of course, whatever your ways, only parsing it as php file type can you get a webshell.
+This script is a python tool designed to generate pictures trojans.It helps penetration testers custom-made their trojans quickly. In some cases like include in php|parsing vulnerability|.htaccess in web app or server.Of course, whatever your ways, only parsing it as php file type can you get a webshell with current catalog info.php.
 
 
 
@@ -36,6 +36,7 @@ chmod + x pic.py
 
 `python pic.py -i [image_path] -p [password]`
 
+connect the current catalog info.php with your password.
 
 
 ### bypassav
